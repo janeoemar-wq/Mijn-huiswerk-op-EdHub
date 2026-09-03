@@ -1,0 +1,7 @@
+# ==========================================
+# Voorbeeld Opdracht
+# Gegeven is een variabele 'leeftijd' met de waarde 25. Print de zin 'Mijn leeftijd is 25'
+# ==========================================
+
+leeftijd = 25
+print('Mijn leeftijd is', leeftijd)  # Het resultaat is: Mijn leeftijd is 25
