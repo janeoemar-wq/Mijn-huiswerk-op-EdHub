@@ -2,3 +2,4 @@
 # Voorbeeld Opdracht
 # print het getal 6
 # ==========================================
+print (6)

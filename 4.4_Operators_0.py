@@ -4,4 +4,8 @@
 # print het getal.
 # ==========================================
 
-print(10_000_000)  # Het resultaat is: 10000000
+#print(10_000_000)  # Het resultaat is: 10000000
+getal = 10_000_000
+print(getal)
+
+print(10_000_000)

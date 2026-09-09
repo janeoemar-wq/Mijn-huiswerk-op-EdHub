@@ -7,3 +7,8 @@
 #
 # Verwachte uitkomst bij invoer van getallen 2 en 3:  De som van 2 en 3 is : 5
 # ==========================================
+
+getal1 = float(input("Voer eerste getal in:"))
+getal2 = float(input("Voer tweede getal in:"))
+product = getal1 + getal2
+print("de som van het product is:  ", product)

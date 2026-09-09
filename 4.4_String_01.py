@@ -7,3 +7,9 @@
 
 # Verwachte uitkomst: Bello is 4 jaar. Dit is 28 jaar in mensenjaren.
 # ==========================================
+name = "Bello"
+leeftijd_hond = 4
+
+naar_mensenjaren= 7
+
+print(f"{name} is {leeftijd_hond} jaar. Dit is {leeftijd_hond * naar_mensenjaren} jaar in mensenjaren.")

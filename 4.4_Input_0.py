@@ -4,3 +4,6 @@
 
 naam = input('Voer je naam in: ')  # voorbeeld invoer: Bart
 print('Je naam is: ', naam)  # Het resultaat is: Je naam is: Bart
+
+Name = input('Voer je naam in: ')
+print('Je naam is: ', Name)

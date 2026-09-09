@@ -8,3 +8,13 @@
 # B: ‘quotes’ ‘quotes’ ‘quotes’ ‘quotes’ spamspamspam
 # C: Python’s syntax is “eenvoudig”
 # ==========================================
+
+
+print("Dit is de vorm van een dak '/\\'")
+print("/\\")
+print("  /\\")
+print(" /  \\")
+print("/____\\")
+print("Jane")
+
+█
