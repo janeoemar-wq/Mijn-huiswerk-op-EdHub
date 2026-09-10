@@ -20,3 +20,29 @@ print('list na toevoeging 40 aan het einde van de lijst: ', getallen)  # Het res
 getallen = [1, 2, 3, 4, 5]
 getallen.append(6)
 print('list na toevoeging 6 aan het einde van de lijst: ', getallen)
+
+
+nummers = [2, 5, 7, 11, 15]
+print(nummers[0] + nummers[1])
+print(nummers[2] * nummers[3]) # 7x11
+som = (nummers)
+print(sum(nummers))
+
+geschiedenis = [
+    "http://mijnsite.nl/home",
+    "http://mijnsite.nl/producten",
+    "http://mijnsite.nl/product_detail"
+]
+
+# Gebruiker bezoekt een nieuwe pagina
+geschiedenis.append("http://mijnsite.nl/winkelwagen")
+
+print("Geschiedenis 1:", geschiedenis)
+
+# Gebruiker klikt op 'terug'
+verwijderde_pagina = geschiedenis.pop()
+
+print("Terug naar:", geschiedenis[-1])
+print("Verwijderde pagina:", verwijderde_pagina)
+print("Geschiedenis 2:", geschiedenis)
+
