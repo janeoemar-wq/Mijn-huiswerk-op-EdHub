@@ -19,7 +19,7 @@ print('list na toevoeging 40 aan het einde van de lijst: ', getallen)  # Het res
 
 getallen = [1, 2, 3, 4, 5]
 getallen.append(6)
-print('list na toevoeging 6 aan het einde van de lijst: ', getallen)
+print('lijst na toevoeging 6 aan het einde van de lijst: ', getallen)
 
 
 nummers = [2, 5, 7, 11, 15]
@@ -46,3 +46,8 @@ print("Terug naar:", geschiedenis[-1])
 print("Verwijderde pagina:", verwijderde_pagina)
 print("Geschiedenis 2:", geschiedenis)
 
+#kleuren.pop(1) # verwijderen op index
+#kleuren.remove("geel") # verwijderen op waarde
+#Meer regels weergeven
+
+#Ezelsbruggetje: .pop() = haal iets eruit en geef het verwijderde item terug.

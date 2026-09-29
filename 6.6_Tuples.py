@@ -1,4 +1,4 @@
-#tuples zijn altijs waarde+komma haakjes zijn optioneel
+#tuples zijn altijd waarde+komma haakjes zijn optioneel
 variabele1 = ('rood',)
 variabele2 = ('geel')
 variabele = 'blauw',
